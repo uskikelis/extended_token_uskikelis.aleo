@@ -1,0 +1,6 @@
+{
+    "program": "extended_token_uskikelis.aleo",
+    "version": "0.0.0",
+    "description": "An extended token program in Aleo with additional functionality, including minting and transferring tokens. The program includes a 'Token' record datatype, along with 'mint' and 'transfer' transitions. It also features an extra function 'isTokenEmpty' to check if a token record is empty.",
+    "license": "MIT"
+}
